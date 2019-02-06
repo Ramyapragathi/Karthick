@@ -1,6 +1,5 @@
 import java.io.*;
-
-public class oddeven
+class oddeven
 
 {
 	
